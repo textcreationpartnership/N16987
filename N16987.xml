@@ -118,24 +118,24 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:021892_0000_0FB5EA63DF4FD2C8"/>
-            <pb facs="tcp:021892_0001_0FB5EA655D13B1F0"/>
+            <pb facs="unknown:021892_0000_0FB5EA63DF4FD2C8"/>
+            <pb facs="unknown:021892_0001_0FB5EA655D13B1F0"/>
             <p>AN ORATION, WHICH MIGHT HAVE BEEN DELIVERED TO THE STUDENTS IN <hi>ANATOMY,</hi> ON THE LATE RUPTURE BETWEEN THE TWO SCHOOLS IN THIS CITY.</p>
             <p>PHILADELPHIA: PRINTED BY T. DOBSON AND T. LANG, IN SECOND STREET. FEBRUARY, 1789.</p>
          </div>
       </front>
       <body>
          <div type="argument">
-            <pb facs="tcp:021892_0002_0FB5EA6C469C5A30"/>
+            <pb facs="unknown:021892_0002_0FB5EA6C469C5A30"/>
             <head>The ARGUMENT.</head>
             <p>ADDRESS—the folly and danger of diſſention—the Orator enumerates the enemies of the fraternity—reminds them of a late unſeaſonable interruption—a night ſcene in the Potter's Field—he laments the want of true zeal in the brotherhood—and boaſts of his own—the force of a ruling paſſion—the earth con<g ref="char:EOLhyphen"/>ſidered as a great animal—the paſſion of love not the ſame in a true ſon of Eſculapius as in other men—his own amour—a picture of his miſtreſs in high taſte—ſhews his learning in the deſcription of her mouth, arm and hand—his miſtreſs dies— his grief—and extraordinary conſolation—his unparallel'd fidelity—he apologizes for giving this hiſtory of his amour—the great difficulties Anatomiſts have to encounter in the preſent times, ariſing from falſe delicacy, prejudice and ignorance—a ſtrong inſtance in proof that it was not ſo formerly—curious argument to prove the inconſiſtency of the preſent opinions re<g ref="char:EOLhyphen"/>ſpecting
 <pb n="iv"
-                   facs="tcp:021892_0003_0FB5EA6D96865798"
+                   facs="unknown:021892_0003_0FB5EA6D96865798"
                    rendition="simple:additions"/>
 the practice—he mentions many obſtacles in the road to ſcience—and reproaches them for their inteſtine broils, at a time when not only popular clamour is loud, but even the powers of government are exerted againſt them—he then encourages his brethren with hopes of better times, founded on the eſtabliſh<g ref="char:EOLhyphen"/>ment of the College of Phyſicians—is inſpired with the idea of the future glory of that inſtitution—and propheſies great things.</p>
          </div>
          <div type="poem">
-            <pb facs="tcp:021892_0004_0FB5EA6FD1EF4730"/>
+            <pb facs="unknown:021892_0004_0FB5EA6FD1EF4730"/>
             <head>AN ORATION, WHICH MIGHT HAVE BEEN DELIVERED, <hi>&amp;c.</hi>
             </head>
             <l>FRIENDS and aſſociates! lend a patient ear,</l>
@@ -149,7 +149,7 @@ the practice—he mentions many obſtacles in the road to ſcience—and reproac
             <l>Is this a time for brethren to engage</l>
             <l>In public conteſt and in party rage?</l>
             <l>
-               <pb n="6" facs="tcp:021892_0005_0FB5EA7D9C2DB308"/>Fell diſcord triumphs in your doubtful ſtrife</l>
+               <pb n="6" facs="unknown:021892_0005_0FB5EA7D9C2DB308"/>Fell diſcord triumphs in your doubtful ſtrife</l>
             <l>And, ſmiling, whets her anatomic knife;</l>
             <l>Prepar'd to cut our precious limbs away</l>
             <l>And leave the bleeding body to decay—</l>
@@ -170,7 +170,7 @@ the practice—he mentions many obſtacles in the road to ſcience—and reproac
             <l>Ev'n hoſtile watchmen ſtand in ſtrong array</l>
             <l>And o'er our heads their threat'ning ſtaves diſplay,</l>
             <l>
-               <pb n="7" facs="tcp:021892_0006_0FB5EA853A06A8F8"/>Howl hideous diſcord thro' the noon of night</l>
+               <pb n="7" facs="unknown:021892_0006_0FB5EA853A06A8F8"/>Howl hideous diſcord thro' the noon of night</l>
             <l>And ſhake their dreadful lanthorns in our ſight.</l>
             <l>SAY, are not theſe ſufficient to engage</l>
             <l>Your high wrought ſouls eternal war to wage?</l>
@@ -191,7 +191,7 @@ the practice—he mentions many obſtacles in the road to ſcience—and reproac
             <l>Then a tumultuous cry—a ſudden fear—</l>
             <l>Proclaim'd the foe—th' enraged foe is near—</l>
             <l>
-               <pb n="8" facs="tcp:021892_0007_0FB5EA8663999238"/>In ſome dark hole the hard got corſe was laid</l>
+               <pb n="8" facs="unknown:021892_0007_0FB5EA8663999238"/>In ſome dark hole the hard got corſe was laid</l>
             <l>And we, in wild confuſion, fled diſmay'd.</l>
             <l>THINK how, like brethren, we have ſhar'd the toil</l>
             <l>When in the Potter's Field<note n="*" place="bottom">THE Negro burial ground.</note> we ſought for ſpoil,</l>
@@ -210,7 +210,7 @@ the practice—he mentions many obſtacles in the road to ſcience—and reproac
             <l>Mean time the battle rag'd—ſo loud the ſtrife,</l>
             <l>The dead were almoſt frighten'd into life—</l>
             <l>
-               <pb n="9" facs="tcp:021892_0008_0FB5EA88C3D9FA28"/>Tho' not victorious, yet we ſcorn'd to yield,</l>
+               <pb n="9" facs="unknown:021892_0008_0FB5EA88C3D9FA28"/>Tho' not victorious, yet we ſcorn'd to yield,</l>
             <l>Retook our prize and left the doubtful field.</l>
             <l>IN this degen'rate age, alas! how few</l>
             <l>The paths of ſcience with true zeal purſue?</l>
@@ -231,7 +231,7 @@ the practice—he mentions many obſtacles in the road to ſcience—and reproac
             <l>I ſee vaſt ocean, like a heart in play,</l>
             <l>Pant <hi>ſyſtole</hi> and <hi>diaſtole</hi> ev'ry day,</l>
             <l>
-               <pb n="10" facs="tcp:021892_0009_0FB5EA8B67D1CD48"/>And by unnumber'd <hi>venous</hi> ſtreams ſupply'd</l>
+               <pb n="10" facs="unknown:021892_0009_0FB5EA8B67D1CD48"/>And by unnumber'd <hi>venous</hi> ſtreams ſupply'd</l>
             <l>Up her broad rivers force th' <hi>arterial</hi> tide.</l>
             <l>The world's great lungs, monſoons and trade-winds ſhew</l>
             <l>From eaſt to weſt, from weſt to eaſt they blow</l>
@@ -251,7 +251,7 @@ the practice—he mentions many obſtacles in the road to ſcience—and reproac
             <l>Brown CADAVERA did my ſoul enſnare,</l>
             <l>Was all my thought by night and daily care—</l>
             <l>
-               <pb n="11" facs="tcp:021892_0010_0FB5EA919D391FF8"/>I long'd to claſp, in her tranſcendent charms,</l>
+               <pb n="11" facs="unknown:021892_0010_0FB5EA919D391FF8"/>I long'd to claſp, in her tranſcendent charms,</l>
             <l>A living ſkeleton within my arms.</l>
             <l>LONG, lank and lean, my CADAVERA ſtood,</l>
             <l>Like the tall pine, the glory of the wood—</l>
@@ -272,7 +272,7 @@ the practice—he mentions many obſtacles in the road to ſcience—and reproac
             <l>The <hi>canine</hi> rang'd, with many a beauteous flaw,</l>
             <l>And laſt the <hi>grinders,</hi> to fill up the jaw—</l>
             <l>
-               <pb n="12" facs="tcp:021892_0011_0FB5EA9462A22660"/>All in their <hi>alveoli</hi> fix'd ſecure,</l>
+               <pb n="12" facs="unknown:021892_0011_0FB5EA9462A22660"/>All in their <hi>alveoli</hi> fix'd ſecure,</l>
             <l>Articulated by <hi>gomphoſis</hi> ſure.</l>
             <l>Around her mouth, perpetual ſmiles had made</l>
             <l>Wrinkles wherein the loves and graces play'd;</l>
@@ -293,7 +293,7 @@ the practice—he mentions many obſtacles in the road to ſcience—and reproac
             <l>So plain was complex <hi>matacarpus</hi> ſhewn</l>
             <l>It might be fairly counted bone by bone.</l>
             <l>
-               <pb n="13" facs="tcp:021892_0012_0FB5EA955558B8C0"/>Her ſlender <hi>phalanxes</hi> were well defin'd,</l>
+               <pb n="13" facs="unknown:021892_0012_0FB5EA955558B8C0"/>Her ſlender <hi>phalanxes</hi> were well defin'd,</l>
             <l>And each with each by <hi>ginglymus</hi> combin'd.</l>
             <l>Such were the charms that did my fancy fire</l>
             <l>And love—chaſte ſcientific love inſpire.</l>
@@ -314,7 +314,7 @@ the practice—he mentions many obſtacles in the road to ſcience—and reproac
             <l>Then feaſted to the full my amorous ſoul,</l>
             <l>And ſkinn'd and cut and ſlaſh'd without controul.</l>
             <l>
-               <pb n="14" facs="tcp:021892_0013_0FB5EA9D94CA8280"/>'TWAS then I ſaw, what long I'd wiſh'd to ſee,</l>
+               <pb n="14" facs="unknown:021892_0013_0FB5EA9D94CA8280"/>'TWAS then I ſaw, what long I'd wiſh'd to ſee,</l>
             <l>That heart which panted oft for love and me—</l>
             <l>In detail view'd the form I once ador'd,</l>
             <l>And nature's hidden myſteries explor'd.</l>
@@ -335,7 +335,7 @@ the practice—he mentions many obſtacles in the road to ſcience—and reproac
             <l>Now what remains of CADAVERA's mine,</l>
             <l>Securely hanging in a caſe of pine.</l>
             <l>
-               <pb n="15" facs="tcp:021892_0014_0FB5EAA1B38B2120"/>OFTTIMES I ſit and contemplate her charms,</l>
+               <pb n="15" facs="unknown:021892_0014_0FB5EAA1B38B2120"/>OFTTIMES I ſit and contemplate her charms,</l>
             <l>Her nodding ſkull and her long dangling arms,</l>
             <l>'Till quite inflam'd with paſſion for the dead</l>
             <l>I take her beauteous ſkeleton to bed—</l>
@@ -356,7 +356,7 @@ the practice—he mentions many obſtacles in the road to ſcience—and reproac
             <l>TIME was, when men their living fleſh would ſpare</l>
             <l>And to the knife their quiv'ring <hi>nates</hi> bare,</l>
             <l>
-               <pb n="16" facs="tcp:021892_0015_0FB5EAA453FFA4E8"/>That ſkilful ſurgeons <note n="*" place="bottom">TALIACOTIUS.</note> noſes might obtain</l>
+               <pb n="16" facs="unknown:021892_0015_0FB5EAA453FFA4E8"/>That ſkilful ſurgeons <note n="*" place="bottom">TALIACOTIUS.</note> noſes might obtain</l>
             <l>For noſes loſt—and cut and come again—</l>
             <l>But now the <hi>living</hi> churliſhly refuſe</l>
             <l>To give their dead relations to our uſe;</l>
@@ -376,7 +376,7 @@ the practice—he mentions many obſtacles in the road to ſcience—and reproac
             <l>To make a monkey—ſome to make a beau,</l>
             <l>Still the materials are the ſame, we know.</l>
             <l>
-               <pb n="17" facs="tcp:021892_0016_0FB5EAA719834BB8"/>Nor can our anatomic knowledge trace</l>
+               <pb n="17" facs="unknown:021892_0016_0FB5EAA719834BB8"/>Nor can our anatomic knowledge trace</l>
             <l>Internal marks diſtinctive of our race.—</l>
             <l>WHENCE, then, theſe loud complaints—theſe hoſts of foes</l>
             <l>Combin'd, our uſeful labours to oppoſe?</l>
@@ -396,7 +396,7 @@ the practice—he mentions many obſtacles in the road to ſcience—and reproac
             <l>Againſt our practice rears her horrid creſt,</l>
             <l>And, our nocturnal acceſs to oppoſe,</l>
             <l>
-               <pb n="18" facs="tcp:021892_0017_0FB5EAA9D85F49D0"/>Around the dead a penal barrier<note n="*" place="bottom">A LAW paſt at New York, making it penal to ſteal bodies from the burial ground.</note> throws?</l>
+               <pb n="18" facs="unknown:021892_0017_0FB5EAA9D85F49D0"/>Around the dead a penal barrier<note n="*" place="bottom">A LAW paſt at New York, making it penal to ſteal bodies from the burial ground.</note> throws?</l>
             <l>To cruſh our ſchools her awful pow'r applies,</l>
             <l>And ev'n forbids the gibbet's juſt ſupplies.<note n="†" place="bottom">THE wheelbarrow law of Pennſylvania.</note>
             </l>
@@ -416,7 +416,7 @@ the practice—he mentions many obſtacles in the road to ſcience—and reproac
                <hi>There</hi> ſolemn ſit the learned of the day</l>
             <l>Diſpenſing death with uncontrouled ſway,</l>
             <l>
-               <pb n="19" facs="tcp:021892_0018_0FB5EAAE2A358AC0"/>And by <hi>preſcription</hi> regulate with eaſe</l>
+               <pb n="19" facs="unknown:021892_0018_0FB5EAAE2A358AC0"/>And by <hi>preſcription</hi> regulate with eaſe</l>
             <l>The ſudden criſis or the ſlow diſeaſe.</l>
             <l>THEN ſhall phyſicians their millennium find,</l>
             <l>And reign the real ſov'reigns of mankind:</l>
